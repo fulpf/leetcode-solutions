@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Reviewed security headers configuration
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Reorganised test fixtures
+- Cross-checked behaviour against spec
+- Addressed feedback from self code review
