@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Cross-checked behaviour against spec
 - Addressed feedback from self code review
+
+## 2026-03-30
+- Added type hints to helper functions
+- Tested build on clean environment
+- Noted known limitation in docs
