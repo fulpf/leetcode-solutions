@@ -33,3 +33,8 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Added basic retry logic for network requests
 - Addressed feedback from self code review
+
+## 2026-03-30
+- Verified API endpoint response schema
+- Fixed off-by-one error in loop
+- Added basic usage examples to README
