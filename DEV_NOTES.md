@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Tested build on clean environment
 - Noted known limitation in docs
+
+## 2026-03-30
+- Tidied up project structure
+- Added basic retry logic for network requests
+- Addressed feedback from self code review
