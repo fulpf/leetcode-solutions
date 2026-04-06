@@ -38,3 +38,7 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Fixed off-by-one error in loop
 - Added basic usage examples to README
+
+## 2026-04-06
+- Added basic retry logic for network requests
+- Fixed off-by-one error in loop
