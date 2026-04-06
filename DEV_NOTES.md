@@ -42,3 +42,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Added basic retry logic for network requests
 - Fixed off-by-one error in loop
+
+## 2026-04-06
+- Cleaned up old debug logs
+- Added type hints to helper functions
